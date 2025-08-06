@@ -12,6 +12,11 @@ This isn't just another tutorial repository. It's a hands-on practice ground whe
 - Compare your solutions with provided answers
 - Understand *when* and *why* to use specific collections
 
+![Java Collections Diagram]
+
+![1000097131](https://github.com/user-attachments/assets/4e786b41-ca2d-4729-905e-412088fd3ac6)
+
+
 ## A Little Confession
 
 I'm also learning Git while building this, so if you see some messy commits or weird branching... that's me figuring things out! 😅 Feel free to suggest improvements - I'm here to learn too.
