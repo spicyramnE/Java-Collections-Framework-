@@ -3,7 +3,7 @@
 ## Why This Repository Exists
 
 I was preparing for interviews and realized something frustrating - there are plenty of tutorials explaining Java Collections, but very few places to actually *practice* using them.
-If you are here, you probably checked it all (gfg,w3s,tp) & weren't satisfied yourself! So here is my take on this framework's basics.
+If you are here, you probably checked it all (gfg,w3s,tp) & weren't satisfied yourself! So here is my take on Collections' basics.
 
 ## What You'll Find Here
 
