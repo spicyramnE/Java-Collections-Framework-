@@ -12,7 +12,7 @@ This isn't just another tutorial repository. It's a hands-on practice ground whe
 - Compare your solutions with provided answers
 - Understand *when* and *why* to use specific collections
 
-![Java Collections Diagram]
+
 
 ![1000097131](https://github.com/user-attachments/assets/4e786b41-ca2d-4729-905e-412088fd3ac6)
 
